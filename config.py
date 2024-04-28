@@ -1,11 +1,11 @@
 # TG机器人的令牌，tg找@BotFather创建机器人即可获取
-TOKEN = 'token'
+TOKEN = '7004905320:AAHAAxaBFLx7qDxX0gOkcC72-kA76BdtdCg'
 # TG用户ID，限制发送消息的用户
-ADMIN_IDS = ['12345678']
+ADMIN_IDS = ['7145640923']
 # pikpak账号，可以为手机号、邮箱，支持任意多账号
-USER = ["example_user1", "example_user2"]
+USER = ["w8o95@finacenter.com_user1", "example_user2"]
 # 账号对应的密码，注意与账号顺序对应！！！
-PASSWORD = ["example_password1", "example_password2"]
+PASSWORD = ["3acbx2w0_password1", "example_password2"]
 AUTO_DELETE = {}
 # 以下分别为aria2 RPC的协议（http/https）、host、端口、密钥
 ARIA2_HTTPS = False
